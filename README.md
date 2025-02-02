@@ -1,4 +1,5 @@
-# Nombre del Proyecto
+## Punto 14
 
-Este proyecto es una práctica de programación en Java.
+He creado la Clase Usuario con tres atributos públicos "nombre", "apellidos" e "email".
+Luego he modificado el programa Principal.java para que reciba un numero cualquiera para cear usuarios, y luego se rellene la información de cada usuario
 
